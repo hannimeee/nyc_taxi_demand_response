@@ -1,4 +1,5 @@
 data/raw/
+data/processed/
 *.parquet
 *.csv
 .DS_Store
