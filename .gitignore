@@ -1,7 +1,11 @@
 data/raw/
 data/processed/
+
 *.parquet
 *.csv
+*.crc
+_SUCCESS
+
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
