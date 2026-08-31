@@ -36,7 +36,7 @@ The project uses the following external datasets:
 
 - [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [MTA Subway Hourly Ridership](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-2025/5wq4-mkjj/about_data)
-- [MTA Service Alerts[(https://data.ny.gov/Transportation/MTA-Service-Alerts-Beginning-April-2020/7kct-peq7/about_data)
+- [MTA Service Alerts](https://data.ny.gov/Transportation/MTA-Service-Alerts-Beginning-April-2020/7kct-peq7/about_data)
 - [Meteostat New York City weather data](https://meteostat.net/en/place/us/new-york-city)
 - [TLC Taxi Zone shapefile](https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip)
 
