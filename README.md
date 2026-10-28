@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rGQRVS1B)
-
-
 # MAST30034 Project 1: Impact of MTA Subway Disruptions on FHVHV Demand Response
 
 This repository contains the code for MAST30034 Project 1. The project investigates how MTA subway disruptions affect demand response in New York City's high-volume for-hire vehicle (FHVHV) market, using average request-to-pickup wait time as the main response variable.
